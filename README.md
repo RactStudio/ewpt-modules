@@ -8,12 +8,12 @@ All available Essential WP Tools (EWPT) modules zip download repository.
 ## EWPT Modules Repositories 
 
 ### 1. [Ad Insert Hub](https://github.com/RactStudio/ad-insert-hub/)
-### 2. [Email Manager Hub](https://github.com/RactStudio/email-manager-hub/)
-### 3. [Essential Tools](https://github.com/RactStudio/essential-tools/)
-### 4. [Maintenance Mode](https://github.com/RactStudio/maintenance-mode/)
-### 5. [Sample Module](https://github.com/RactStudio/sample-module/)
+### 2. [Essential Tools](https://github.com/RactStudio/essential-tools/)
+### 3. [Maintenance Mode](https://github.com/RactStudio/maintenance-mode/)
+### 4. [Social Share Hub](https://github.com/RactStudio/social-share-hub/)
+### 5. [System Info](https://github.com/RactStudio/system-info/)
 
 ## Under Development Modules List:
 
-### 2. [Social Share Hub](https://github.com/RactStudio/social-share-hub/)
-### 2. [System Info](https://github.com/RactStudio/system-info/)
+### 1. [Email Manager Hub](https://github.com/RactStudio/email-manager-hub/)
+### 2. [Sample Module](https://github.com/RactStudio/sample-module/)
