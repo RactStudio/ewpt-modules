@@ -1,6 +1,8 @@
 # EWPT Modules
 All available Essential WP Tools (EWPT) modules zip download repository.
 
+## Try One Click [Live Preview](https://playground.wordpress.net/?mode=seamless&storage=browser&blueprint-url=https://raw.githubusercontent.com/RactStudio/essential-wp-tools/ewpt/dist/blueprints/blueprint.json)
+
 ## EWPT Plugin Website **[Essential WP Tools](https://ewpt.ractstudio.com/)**
 ## EWPT on Github: [Download on Github Releases](https://github.com/RactStudio/essential-wp-tools/releases)
 ## EWPT on WordPress: [Download on WordPress.org](https://wordpress.org/plugins/essential-wp-tools/)
